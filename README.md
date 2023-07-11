@@ -2,7 +2,7 @@
 
 Simple sketch to replicate a Serial2 connection (hardware serial) on a bluethoot serial connection. For reliability the code uses buffers.
 
-Application example for Smart-BMS SZLLT (same JBD or Xiaoxiang) with  PC app JBDtools  
+Application example for an e-bike battery with Smart-BMS SZLLT (same JBD or Xiaoxiang) and  PC app JBDtools.  
 Work maybe also on Daly BMS with their PC soft ?? to be tested ...  
 - Tested  with BMS SZLLT SP15S001-P13S-40A and JBDTools v.1.6
 
