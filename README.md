@@ -34,7 +34,7 @@ and locate the right com number ! (important)
   <img src="./img/connect_BT.jpg" width="400" title="connect BT">
 </p>
 
-in the JBDtools application (or other) specify the same com number.  
+in the JBDtools application (or other) specify the same com number and Bd (9600).  
 click OK then start, and then wait for the connection to be established.   
 Can sometimes take a little time!  
 If it doesn't work check your serial bluethoot com number.
