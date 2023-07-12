@@ -6,6 +6,10 @@ Application example for an e-bike battery with Smart-BMS SZLLT (same JBD / Xiaox
 Work maybe also on Daly BMS with their PC soft ?? to be tested ...  
 - Tested  with BMS SZLLT SP15S001-P13S-40A and JBDTools v.1.6
 
+Discussion en français sur le [forum Cyclurba](https://cyclurba.fr/forum/forum_discussion.php?from=1&messageID=743774#msg743774)
+
+---
+
 ### Diagram
 
 <p align="left">
