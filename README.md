@@ -25,6 +25,10 @@ I put a strap to disable it in this case but use it for other applications, like
   <img src="./img/pico_circuit.jpg" width="700" title="Pico">
 </p> 
 
+<p align="left">
+  <img src="./img/pico_and_ble.jpg" width="700" title="Pico and BLE">
+</p> 
+
 ### How to use
 
 On Windows associate the bluethoot device "ESP32_SMART_BMS" 
